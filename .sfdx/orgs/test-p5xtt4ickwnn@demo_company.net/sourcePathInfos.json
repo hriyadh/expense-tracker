@@ -1,0 +1,1207 @@
+[
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511179058839,
+            "changeTime": 1511179058839,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511179058839,
+            "changeTime": 1511179058839,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511180964184,
+            "changeTime": 1511180964184,
+            "contentHash": "c7bcb6b218f2c6ccccfe6cab9bea26ea8fe6f33c"
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511179956978,
+            "changeTime": 1511179956978,
+            "contentHash": "bbfef9f8418c7cd0844f6c0ce7a05c2842392948",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\harnessApp",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\harnessApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511179956972,
+            "changeTime": 1511179956972,
+            "contentHash": "2a07cdf00026e3d67e3989613bda1c0a13da4082",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\harnessApp\\harnessApp.app",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\harnessApp\\harnessApp.app",
+            "isDirectory": false,
+            "size": 60,
+            "modifiedTime": 1511179956973,
+            "changeTime": 1511179956973,
+            "contentHash": "49e9d0e6558c2a2075f774c811129a4210aa0425",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\harnessApp\\harnessApp.app-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\harnessApp\\harnessApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1511179956971,
+            "changeTime": 1511179956971,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\helloWorld",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\helloWorld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511179956977,
+            "changeTime": 1511179956977,
+            "contentHash": "73e08cc617e8dd5333000bee750ef195d4ca309e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp",
+            "isDirectory": false,
+            "size": 135,
+            "modifiedTime": 1511179956976,
+            "changeTime": 1511179956976,
+            "contentHash": "a4098cd3513f73b20b6e1abd640c0edbb7aa8948",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1511179956975,
+            "changeTime": 1511179956975,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.css",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.css",
+            "isDirectory": false,
+            "size": 74,
+            "modifiedTime": 1511179956977,
+            "changeTime": 1511179956977,
+            "contentHash": "71cefbae01cb466c0d7d2ea6bea5d693c67b8046",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511179956990,
+            "changeTime": 1511179956990,
+            "contentHash": "994d30ac2774bdc927dadfd7e8675b5344e770e7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmp.auradoc",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1511179956980,
+            "changeTime": 1511179956980,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmp.cmp",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmp.cmp",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1511179956981,
+            "changeTime": 1511179956981,
+            "contentHash": "d008175b9de5fc0421d6d51d9a0ccdd5e0ce3046",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmp.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmp.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 211,
+            "modifiedTime": 1511179956979,
+            "changeTime": 1511179956979,
+            "contentHash": "460eac2dac483fded990b3bbd9d9a88f5d262001",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmp.css",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmp.css",
+            "isDirectory": false,
+            "size": 9,
+            "modifiedTime": 1511179956982,
+            "changeTime": 1511179956982,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmp.design",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmp.design",
+            "isDirectory": false,
+            "size": 41,
+            "modifiedTime": 1511179956983,
+            "changeTime": 1511179956983,
+            "contentHash": "d2fdcfd6e18b15889904738a1e82c97ab8fd8108",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmp.svg",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1511179956987,
+            "changeTime": 1511179956987,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmpController.js",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmpController.js",
+            "isDirectory": false,
+            "size": 60,
+            "modifiedTime": 1511179956989,
+            "changeTime": 1511179956989,
+            "contentHash": "9fc7736232d1d9d7a40c4cea1d6b22e712d8f8b1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmpHelper.js",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmpHelper.js",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1511179956990,
+            "changeTime": 1511179956990,
+            "contentHash": "c3c6efda41de64b759982510d6a2c72226aa087f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmpRenderer.js",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\aura\\testCmp\\testCmpRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1511179956991,
+            "changeTime": 1511179956991,
+            "contentHash": "d8889ac0d18cd169b09b0a0a781471dd625dea9f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511179956802,
+            "changeTime": 1511179956802,
+            "contentHash": "e81264004cbb92bbb92fc7862be7e9dbd66da477",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511179956807,
+            "changeTime": 1511179956807,
+            "contentHash": "7e18244116415a1ea894bab3e1555215869b08f5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2014,
+            "modifiedTime": 1511179956807,
+            "changeTime": 1511179956807,
+            "contentHash": "9b336462d7e999feb9108d621c53927a61036909",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c\\fields",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511179956819,
+            "changeTime": 1511179956819,
+            "contentHash": "36e0f8ce8d3855ac18e6a491d7d01518f3bb1ae3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 386,
+            "modifiedTime": 1511179956811,
+            "changeTime": 1511179956811,
+            "contentHash": "472ae6f54d35237328ea05f13675341a86af5d7e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 357,
+            "modifiedTime": 1511179956815,
+            "changeTime": 1511179956815,
+            "contentHash": "0a4ca2be5487be4a173586522bf41d4f049c5ed5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 302,
+            "modifiedTime": 1511179956819,
+            "changeTime": 1511179956819,
+            "contentHash": "3aa2f8a93fac4dc61cd0c5780578ea9791519b1b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1511179956823,
+            "changeTime": 1511179956823,
+            "contentHash": "9acbdb90d14377c84305cbc7f2dd0239dc76cd4d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511179956968,
+            "changeTime": 1511179956968,
+            "contentHash": "c94cf39d12480e7690a0698bdbafde53a55b86ca",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Account.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Account.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956864,
+            "changeTime": 1511179956864,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Asset.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Asset.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956867,
+            "changeTime": 1511179956867,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\AssetRelationship.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\AssetRelationship.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956869,
+            "changeTime": 1511179956869,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\AssistantProgress.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\AssistantProgress.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956871,
+            "changeTime": 1511179956871,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Campaign.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Campaign.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956873,
+            "changeTime": 1511179956873,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\CampaignMember.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\CampaignMember.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956875,
+            "changeTime": 1511179956875,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Case.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Case.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956876,
+            "changeTime": 1511179956876,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Contact.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Contact.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956878,
+            "changeTime": 1511179956878,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Contract.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Contract.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956899,
+            "changeTime": 1511179956899,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\DandBCompany.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\DandBCompany.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956901,
+            "changeTime": 1511179956901,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\DuplicateRecordItem.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\DuplicateRecordItem.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956903,
+            "changeTime": 1511179956903,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\DuplicateRecordSet.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\DuplicateRecordSet.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956905,
+            "changeTime": 1511179956905,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\EmailMessage.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\EmailMessage.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956907,
+            "changeTime": 1511179956907,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Event.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Event.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956908,
+            "changeTime": 1511179956908,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\ExchangeUserMapping.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\ExchangeUserMapping.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956910,
+            "changeTime": 1511179956910,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Expense__c.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Expense__c.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956912,
+            "changeTime": 1511179956912,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\FeedItem.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\FeedItem.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956914,
+            "changeTime": 1511179956914,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Goal.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Goal.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956916,
+            "changeTime": 1511179956916,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\GoalLink.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\GoalLink.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956918,
+            "changeTime": 1511179956918,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Idea.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Idea.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956920,
+            "changeTime": 1511179956920,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Lead.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Lead.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956921,
+            "changeTime": 1511179956921,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Macro.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Macro.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956923,
+            "changeTime": 1511179956923,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\MacroAction.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\MacroAction.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956925,
+            "changeTime": 1511179956925,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\MacroInstruction.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\MacroInstruction.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956927,
+            "changeTime": 1511179956927,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Metric.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Metric.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956929,
+            "changeTime": 1511179956929,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Opportunity.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Opportunity.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956931,
+            "changeTime": 1511179956931,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\OpportunityLineItem.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\OpportunityLineItem.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956933,
+            "changeTime": 1511179956933,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Order.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Order.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956935,
+            "changeTime": 1511179956935,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\OrderItem.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\OrderItem.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956936,
+            "changeTime": 1511179956936,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Organization.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Organization.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956938,
+            "changeTime": 1511179956938,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Product2.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Product2.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956941,
+            "changeTime": 1511179956941,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Site.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Site.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956942,
+            "changeTime": 1511179956942,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\SocialPersona.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\SocialPersona.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956945,
+            "changeTime": 1511179956945,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Solution.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Solution.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956947,
+            "changeTime": 1511179956947,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\StreamingChannel.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\StreamingChannel.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956950,
+            "changeTime": 1511179956950,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Task.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\Task.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956952,
+            "changeTime": 1511179956952,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\User.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\User.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956954,
+            "changeTime": 1511179956954,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\UserLicense.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\UserLicense.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956955,
+            "changeTime": 1511179956955,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\UserProvisioningRequest.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\UserProvisioningRequest.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956957,
+            "changeTime": 1511179956957,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkCoaching.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkCoaching.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956959,
+            "changeTime": 1511179956959,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkFeedback.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkFeedback.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956961,
+            "changeTime": 1511179956961,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkFeedbackQuestion.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkFeedbackQuestion.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956962,
+            "changeTime": 1511179956962,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkFeedbackQuestionSet.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkFeedbackQuestionSet.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956964,
+            "changeTime": 1511179956964,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkFeedbackRequest.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkFeedbackRequest.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956966,
+            "changeTime": 1511179956966,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkFeedbackTemplate.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkFeedbackTemplate.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956968,
+            "changeTime": 1511179956968,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkPerformanceCycle.workflow-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\workflows\\WorkPerformanceCycle.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1511179956969,
+            "changeTime": 1511179956969,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511179606290,
+            "changeTime": 1511179606290,
+            "contentHash": "4bc3309e0565242217121974688aa64e0d731b9b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2771,
+            "modifiedTime": 1511180634032,
+            "changeTime": 1511180634032,
+            "contentHash": "e6a0455b3c6b0dd0ddfe5f2c7ffe2ea0725a1469",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511180634031,
+            "changeTime": 1511180634031,
+            "contentHash": "e15ea744300e5f3377055aaf1ccbeb54606bbf43",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\permissionsets\\Expense_Tracker.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\permissionsets\\Expense_Tracker.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1185,
+            "modifiedTime": 1511180964187,
+            "changeTime": 1511180964187,
+            "contentHash": "6b3056856aaa731b8ba17c8bea5f9564e4a9981c"
+        }
+    ],
+    [
+        "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sfdx-projects\\ExpenseTracker\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511180964186,
+            "changeTime": 1511180964186,
+            "contentHash": "7ed1b6f146d87edf58c34e1ede89226382a848ee"
+        }
+    ]
+]
