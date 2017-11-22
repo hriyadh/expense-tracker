@@ -1,4 +1,4 @@
-<aura:component implements="force:appHostable">
+<aura:component implements="force:appHostable" controller="ExpensesController">
     
     <aura:attribute name="expenses" type="Expense__c[]"/>
 
@@ -9,8 +9,10 @@
                     'Client__c' : '',
                     'Date__c' : '',
                     'Reimbursed__c' : false }" />
-
-<!-- PAGE HEADER -->
+    
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+    
+    <!-- PAGE HEADER -->
     <lightning:layout class="slds-page-header slds-page-header_object-home">
         <lightning:layoutItem>
             <lightning:icon iconName="standard:scan_card" alternativeText="My Expenses"/>

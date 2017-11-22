@@ -1,11 +1,20 @@
 ({
     createExpense : function(component, expense) {
-        var expenses = component.get("v.expenses");
-        var newExpense = JSON.parse(JSON.stringify(expense));
-        console.log(newExpense);
-        expenses.push(newExpense);
-        component.set("v.expenses", expenses);
-        console.log('-------------------------------');
-        console.log(JSON.stringify(expenses));
+
+        var action = component.get("c.saveExpense");
+        action.setParams({
+            "expense" : expense
+        });
+
+        action.setCallback(this, function(response) {
+            if(response.getState() == 'SUCCESS') {
+                var newExpense = response.getReturnValue();
+                var expenses = component.get("v.expenses");
+                expenses.push(newExpense);
+                component.set("v.expenses", expenses);
+            }
+        });
+
+        $A.enqueueAction(action);
     }
 })
