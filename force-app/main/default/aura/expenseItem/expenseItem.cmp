@@ -3,7 +3,7 @@
     <aura:attribute name="formatdate" type="Date" />
     <aura:attribute name="expense" type="Expense__c" />
 
-    <lightning:card title="{!v.expense.Name}" iconName="standard:scan_card" class="{!v.expense.Reimbursed__c ? 'slds-theme_nosuccess' : ''}" >
+    <lightning:card title="{!v.expense.Name}" iconName="standard:scan_card" class="{!v.expense.Reimbursed__c ? 'slds-theme_success' : ''}" >
 
         <aura:set attribute="footer">
             <p>Date: <lightning:formattedDateTime value="{!v.formatdate}" /></p>
