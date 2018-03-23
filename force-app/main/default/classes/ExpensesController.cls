@@ -34,4 +34,10 @@ public with sharing class ExpensesController {
         upsert expense;
         return expense;
     }
+
+    public static void vsCodetest() {
+        String myString = 'Riyadh Hossain';
+        System.debug(myString);
+        System.debug([SELECT Id, Name, Type FROM Account]);
+    }
 }
