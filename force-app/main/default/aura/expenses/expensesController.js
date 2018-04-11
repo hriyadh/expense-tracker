@@ -33,5 +33,10 @@
            // console.log(JSON.stringify(newExpense));
             helper.createExpense(component, newExpense);
         }
+    },
+
+    handleUpdateExpense : function(component, event, helper) {
+        var updatedExp = event.getParam("expense");
+        helper.updateExpense(component, updatedExp);
     }
 })
