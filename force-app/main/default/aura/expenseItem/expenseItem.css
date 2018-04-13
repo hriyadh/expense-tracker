@@ -1,2 +1,15 @@
-.THIS {
+.THIS.slds-theme_success .slds-form-element__label {
+    color: #ffffff;
+}
+
+.THIS.slds-theme_success .slds-text-title {
+    color: #ffffff;
+}
+
+.THIS.slds-theme_success .slds-checkbox--on {
+    color: #ffffff;
+}
+
+.THIS.slds-theme_success .slds-checkbox--off {
+    color: #ffffff;
 }

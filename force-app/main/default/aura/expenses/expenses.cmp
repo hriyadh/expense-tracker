@@ -28,5 +28,14 @@
 	</lightning:layout>
 	<!-- / NEW EXPENSE FORM -->
 
-	<c:expenseList expenses="{!v.expenses}" />
+	<lightning:layout>
+		<lightning:layoutItem padding="around-small" size="6">
+			<c:expenseList expenses="{!v.expenses}" />
+		</lightning:layoutItem>
+		<lightning:layoutItem padding="around-small" size="6">
+			<p></p>
+		</lightning:layoutItem>
+	</lightning:layout>
+
+	
 </aura:component>	
