@@ -25,7 +25,8 @@ public with sharing class ExpensesController {
                     Date__c,
                     Reimbursed__c,
                     CreatedDate
-                FROM Expense__c];
+                FROM Expense__c
+                ORDER BY CreatedDate];
     }
 
     @AuraEnabled
